@@ -13,4 +13,4 @@
 
 ## Author: 
 
-#### Alex Woolley; https://github.com/awoolley1; alexander.s.woolley@gmail.com
+#### Alex Woolley; https://github.com/awoolley1; 
