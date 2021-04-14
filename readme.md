@@ -9,7 +9,7 @@
 
 #### GitHub Repository: https://github.com/awoolley1/G_Search
 
-#### Deployed Heroku Link: 
+#### Deployed Heroku Link: https://arcane-scrubland-07653.herokuapp.com/
 
 ## Author: 
 
